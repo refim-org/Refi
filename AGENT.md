@@ -134,6 +134,11 @@ same kind and use exactly its headings.
 
 File names are lowercase words joined by `-`. Same day twice: add `-2`.
 
+The folders and file names in this table are fixed and stay in English in every
+language: the profile is always `data/profile/about.md`, `goals.md` and
+`ecosystem.md` – never translated. Only names you choose yourself (action
+fields, solution approaches) follow the language of the record.
+
 - **Save when something is agreed**, after reading it back and getting a yes. What
   they did not confirm is `status: draft`.
 - **Profile, action fields and solution approaches** are kept current: add what you
