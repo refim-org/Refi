@@ -15,6 +15,11 @@ requirement involved, and how others already solve it (best practices, products,
 workarounds), not only the vendors' own docs. The person should not have to
 supply the angles.
 
+Before your first question, read what the field touches — the record, their
+profile, and the documents and tools the problem lives in. Ask only for what
+none of it holds. When a coach works the field for someone else, keep questions
+only that person can answer in a short list for them, not for the coach.
+
 ## Flow
 
 1. **Establish the problem.** With an existing field: restate it in three lines
